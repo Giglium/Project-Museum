@@ -1,0 +1,5 @@
+# Ignore this files due to open issue: https://github.com/sqlfluff/sqlfluff/issues/901
+function.sql
+procedure.sql
+trigger.sql
+query.sql
